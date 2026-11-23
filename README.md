@@ -1,4 +1,3 @@
-```markdown name=README.md
 # Hi, I'm Sumin Kim 👋
 
 **Public Administration Undergraduate | AI-Assisted Development · UI/UX · Quality Assurance**
