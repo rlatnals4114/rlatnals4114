@@ -42,7 +42,7 @@ MOIDDAK is an independent project developed during the PLAN_Be Season 10 Hackath
 - Used AI-assisted development tools to build a web application
 - Implemented group scheduling, availability tracking, and venue selection workflows
 - Tested user workflows and contributed to functional and UI issue resolution
-- Repository not currently public
+- ### [MOIDDAK — Group Scheduling Web Application](https://github.com/rlatnals4114/moiddak)
 
 ---
 
